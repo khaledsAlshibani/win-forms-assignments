@@ -1,0 +1,39 @@
+# Visual Studio files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+
+# NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Rider / JetBrains IDEs
+.idea/
+*.iml
+
+# Windows Form Designer generated files
+*.Designer.cs
+
+# Debug / Release config files
+appsettings.Development.json
+appsettings.Production.json
+
+# Log files
+*.log
+logs/

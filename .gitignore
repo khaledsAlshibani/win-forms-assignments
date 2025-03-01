@@ -7,7 +7,6 @@
 
 # Build output
 bin/
-obj/
 *.exe
 *.dll
 *.pdb
@@ -26,9 +25,6 @@ project.lock.json
 # Rider / JetBrains IDEs
 .idea/
 *.iml
-
-# Windows Form Designer generated files
-*.Designer.cs
 
 # Debug / Release config files
 appsettings.Development.json

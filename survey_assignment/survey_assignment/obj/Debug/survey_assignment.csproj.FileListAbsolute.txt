@@ -1,0 +1,10 @@
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\bin\Debug\survey_assignment.exe.config
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\bin\Debug\survey_assignment.exe
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\bin\Debug\survey_assignment.pdb
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.csproj.AssemblyReference.cache
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.Form1.resources
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.Properties.Resources.resources
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.csproj.GenerateResource.cache
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.csproj.CoreCompileInputs.cache
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.exe
+C:\Users\khaled\source\repos\win-forms-assignments\survey_assignment\survey_assignment\obj\Debug\survey_assignment.pdb

@@ -1,0 +1,10 @@
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\bin\Debug\product_entry_assignment.exe.config
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\bin\Debug\product_entry_assignment.exe
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\bin\Debug\product_entry_assignment.pdb
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.csproj.AssemblyReference.cache
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.Form1.resources
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.Properties.Resources.resources
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.csproj.GenerateResource.cache
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.csproj.CoreCompileInputs.cache
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.exe
+C:\Users\khaled\source\repos\win-forms-assignments\product_entry_assignment\product_entry_assignment\obj\Debug\product_entry_assignment.pdb
